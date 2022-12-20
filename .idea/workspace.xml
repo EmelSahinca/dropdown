@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="652f48ac-1061-4d5b-8fc2-67590ba381e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practices01/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practices01/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practices01/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practices01/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day01_BasicNavigations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day02_TitleVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day02_URLVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day02_WebDriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day03_Assertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day03_Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day04_xpath_css.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day05_Dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day05_JavaFaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day05_RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day05_dynamic_xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day07_Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Day07_TestBaseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-    </list>
+    <list default="true" id="652f48ac-1061-4d5b-8fc2-67590ba381e1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
